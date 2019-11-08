@@ -20,10 +20,5 @@ CREATE TABLE `short_urls` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 --
 
-Тесты :
-1. https://loadimpact.com/ / loadimpact.jpg . Выложил сайт на хостинг и протестировал его
-2. ApacheBenchmark / ab.jpg
-
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ВОЗМОЖНЫЕ ОШИБКИ
  ЕСЛИ В КОНСОЛЬ БРАУЗЕРА ВЫХОДИТ ОШИБКА НЕВЕРНЫЙ URL. ПРОВЕРЬТЕ КОРРЕКТНОСТЬ ИМЕНИ ФАЙЛА .htaccess (МОЖЕТ БЫТЬ _htaccess)
